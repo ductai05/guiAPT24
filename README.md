@@ -1,3 +1,3 @@
 ## Study Guide for Academic Proficiency Test - VNUHCM 2024
-- Status: pre-release
-- Update date: January 14, 2024 (14/01/2024)
+- Status: released
+- Update date: January 28, 2024 (28/01/2024)
